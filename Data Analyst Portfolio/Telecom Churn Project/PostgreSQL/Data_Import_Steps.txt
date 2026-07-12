@@ -1,0 +1,6 @@
+1. Created database telecom_churn_db.
+2. Created table telecom_churn.
+3. Cleaned the dataset in Excel.
+4. Saved the cleaned file as CSV.
+5. Imported telecom_churn_cleaning.csv into PostgreSQL.
+6. Verified that 7043 rows were imported successfully.
